@@ -11,4 +11,4 @@ Some Containers may not work correctly with certain objects (``std::vector<bool>
 
 Example Output
 ----------
-![alt text](https://github.com/9inefold/ObjectBytes/blob/main/bytesexample.PNG?raw=true)
+![byte viewer example](./bytesexample.PNG?raw=true)
